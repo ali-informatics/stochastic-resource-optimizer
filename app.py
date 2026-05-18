@@ -7,7 +7,7 @@ from optimizer import allocate_resources
 # Page Config
 st.set_page_config(page_title="Ali Informatics Decision Support", layout="wide")
 
-st.title("📊 Stochastic Resource Optimizer")
+st.title("Stochastic Resource Optimizer")
 st.caption("🔬 Mode: Advanced Stochastic Simulation & Articulated Data Environment")
 st.markdown("---")
 
